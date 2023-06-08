@@ -1,6 +1,9 @@
 # Beginners' All-purpose Symbolic Instruction Code
+> This is my hobby.
 
-Delicious links below :yum:
+Got inspiration from [here](https://youtu.be/7r83N3c2kPw). :sparkling_heart:
+
+[Peeks, Pokes and Pointers](https://archive.org/details/peeks-pokes-pointers/mode/2up).
 
 [https://www.scullinsteel.com/apple2/](https://www.scullinsteel.com/apple2/).
 
